@@ -43,5 +43,26 @@ overfitting. You could use statistical tests to make this determination.
 
 ## Submission
 
-Add your report and code to this repository. Bonus points if you can set up a
-Github action to automatically run the code and generate the report!
+PDF is the primary submission, code contains thought process and well, code.
+Sources:
+- US Census Bureau
+- https://www.kaggle.com/datasets/joebeachcapital/campus-pride-index
+- https://www.unitedstateszipcodes.org/zip-code-database/population/
+- https://scikit-learn.org/stable/supervised_learning.html
+- https://scikit-learn.org/stable/modules/linear_model.html
+- https://scikit-learn.org/stable/modules/svm.html
+- https://scikit-learn.org/stable/modules/sgd.html
+- https://scikit-learn.org/stable/modules/neighbors.html
+- https://scikit-learn.org/stable/modules/gaussian_process.html
+- https://scikit-learn.org/stable/modules/naive_bayes.html
+- https://scikit-learn.org/stable/modules/tree.html
+- https://scikit-learn.org/stable/modules/ensemble.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html
+- https://saturncloud.io/blog/how-to-split-text-in-a-column-into-multiple-rows-using-pandas/
+- https://stackoverflow.com/questions/38829702/summing-booleans-in-a-dataframe
+- https://stackoverflow.com/questions/32059397/pandas-groupby-without-turning-grouped-by-column-into-index
+- https://stackoverflow.com/questions/47040728/get-average-difference-between-all-numbers-in-a-list-python
+- https://seaborn.pydata.org/generated/seaborn.pairplot.html
+- https://dal.ca.libguides.com/csci/writing
+- I learned LaTex just for this.
+- MWolf submission, Michael Stoll submission
